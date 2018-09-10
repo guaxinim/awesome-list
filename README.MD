@@ -7,16 +7,16 @@
 #### Contents
 
 - [Demos](#demos)
-  - [Table / Data Grid](#table--data-grid)
-  - [Infinite Scroll](#infinite-scroll)
-  - [Overlay](#overlay)
-  - [Notification](#notification)
-  - [Tooltip](#tooltip)
-  - [Menu](#menu)
-  - [Sticky](#sticky)
-  - [Tabs](#tabs)
-  - [Loader](#loader)
-  - [Carousel](#carousel)
+  - [Openshift](#openshift)
+  - [Istio](#istio)
+  - [JBoss Data Grid](#jboss-data-grid)
+  - [JBoss Data Virtualization](#jboss-data-virtualization)
+  - [JBoss Fuse](#jboss-fuse)
+  - [RH-SSO](#rh-sso)
+  - [Decision Manager](#decision-manager)
+  - [Process Automation Manager](#rh-pam)
+  - [Red Hat AMQ](#amq)
+  - [AMQ Streams](#amq-streams)
   - [Collapse](#collapse)
   - [Chart](#chart)
   - [Tree](#tree)
@@ -75,7 +75,7 @@
 
 ## Demos
 
-### Table / Data Grid
+### Openshift
 
  - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
  - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
@@ -90,7 +90,7 @@
  - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 
 
-### Infinite Scroll
+### JBoss Data Grid
 
  - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
  - [react-infinity](https://github.com/nmn/react-infinity) - A UITableView Inspired list and grid display solution with element culling and smooth animations.
@@ -100,7 +100,7 @@
  - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 
 
-### Overlay
+### JBoss Data Virtualization
 
 *Display overlay / modal / alert / dialog / lightbox / popup*
 
