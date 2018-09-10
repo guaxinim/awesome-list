@@ -49,7 +49,7 @@
     - [Image Editing](#image-editing)
     - [Form Component Collections](#form-component-collections)
     - [Miscellaneous](#miscellaneous-1)
-- [Solucoes](#ui-frameworks)
+- [Soluções](#solucoes)
   - [Responsive](#responsive)
   - [Mobile](#mobile)
   - [Component Collections](#component-collections)
@@ -57,14 +57,13 @@
 - [Ferramentas](#ui-utilites)
   - [Reporter](#reporter)
   - [Device Input](#device-input)
-    - [Keyboard Events](#keyboard-events)
-    - [Scroll Events](#scroll-events)
-    - [Touch Events](#touch-events)
-    - [Touch Swipe](#touch-swipe)
-    - [Mouse Events](#mouse-events)
-  - [Meta Tags](#meta-tags)
   - [Portal](#portal)
   - [Test User Behavior](#test-user-behavior)
+- [Cases](#cases)
+  - [Responsive](#responsive)
+  - [Mobile](#mobile)
+  - [Component Collections](#component-collections)
+  - [Other](#other)
 
 <br/>
 <br/>
@@ -505,7 +504,7 @@
 
 
 
-## UI Layout
+## Soluções
 
 *Components to layout the app's UI*
 
@@ -535,7 +534,7 @@
 
 
 
-## UI Animation
+## Ferramentas
 
 *Animate transitions*
 
@@ -568,7 +567,7 @@
  - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
 
 
-## UI Frameworks
+## Cases
 
 
 ### Responsive
