@@ -6,7 +6,7 @@
 
 #### Contents
 
-- [UI Components](#ui-components)
+- [Demos](#demos)
   - [Table / Data Grid](#table--data-grid)
   - [Infinite Scroll](#infinite-scroll)
   - [Overlay](#overlay)
@@ -49,20 +49,13 @@
     - [Image Editing](#image-editing)
     - [Form Component Collections](#form-component-collections)
     - [Miscellaneous](#miscellaneous-1)
-- [UI Layout](#ui-layout)
-- [UI Animation](#ui-animation)
-  - [Parallax](#parallax)
-- [UI Frameworks](#ui-frameworks)
+- [Solucoes](#ui-frameworks)
   - [Responsive](#responsive)
-    - [Bootstrap](#bootstrap)
-    - [Material Design](#material-design)
   - [Mobile](#mobile)
   - [Component Collections](#component-collections)
   - [Other](#other)
-- [UI Utilites](#ui-utilites)
+- [Ferramentas](#ui-utilites)
   - [Reporter](#reporter)
-    - [Visibility Reporter](#visibility-reporter)
-    - [Measurement Reporter](#measurement-reporter)
   - [Device Input](#device-input)
     - [Keyboard Events](#keyboard-events)
     - [Scroll Events](#scroll-events)
@@ -72,33 +65,6 @@
   - [Meta Tags](#meta-tags)
   - [Portal](#portal)
   - [Test User Behavior](#test-user-behavior)
-- [Code Design](#code-design)
-  - [Data Store](#data-store)
-  - [Form Logic](#form-logic)
-  - [Router](#router)
-  - [Props from server](#props-from-server)
-  - [Communication with server](#communication-with-server)
-  - [CSS / Style](#css--style)
-  - [HTML Template](#html-template)
-  - [Isomorphic Apps](#isomorphic-apps)
-  - [Boilerplate](#boilerplate)
-  - [Miscellaneous](#miscellaneous-2)
-- [Utilities](#utilities)
-  - [i18n](#i18n)
-  - [Framework bindings / integrations](#framework-bindings--integrations)
-  - [Integrations with Third Party Services](#integrations-with-third-party-services)
-- [Performance](#performance)
-  - [UI](#ui)
-    - [Inspect](#inspect)
-    - [Lazy Load](#lazy-load)
-  - [App Size](#app-size)
-- [Dev Tools](#dev-tools)
-  - [Test](#test)
-  - [Redux](#redux)
-  - [Inspect](#inspect-1)
-  - [Miscellaneous](#miscellaneous-3)
-- [Miscellaneous](#miscellaneous-4)
-  - [Static Website Generator](#static-website-generator)
 
 <br/>
 <br/>
@@ -107,7 +73,7 @@
 <br/>
 <br/>
 
-## UI Components
+## Demos
 
 ### Table / Data Grid
 
